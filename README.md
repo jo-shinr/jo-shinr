@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![octocat-1704969502595](https://github.com/Skyhonze/Skyhonze/assets/103993379/976ad224-656a-4db5-adbe-5a08aabf4e3f)
 
 <img src=”aaa" alt=”my banner”>
@@ -17,6 +15,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm anything except boring! And I like participating in Hackhaton
 
--->
-
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+-->
