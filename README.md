@@ -1,8 +1,8 @@
 ![octocat-1704969502595](https://github.com/Skyhonze/Skyhonze/assets/103993379/976ad224-656a-4db5-adbe-5a08aabf4e3f)
 
+<!--
 <img src=”aaa" alt=”my banner”>
 
-<!--
 **Skyhonze/Skyhonze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
